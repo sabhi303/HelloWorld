@@ -5,4 +5,5 @@ main.o: main.cc
 clean:
 	rm *.o
 	rm output
-
+run:
+	./output
